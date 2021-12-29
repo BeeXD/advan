@@ -61,7 +61,7 @@ module.exports = {
         .setDescription(`
 **Hey ${message.author}, I am ${client.user}**.
  
-**An Advanced Discord Economy Bot**
+**A economy Bot*
         
 ** Help related to ${client.user.username} commands**
 

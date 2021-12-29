@@ -1,5 +1,5 @@
 {
-  "name": "EconomyBot",
+  "name": "economy",
   "version": "1.1.5",
   "description": "Economy bot created with quick.eco package in discord.js",
   "main": "index.js",

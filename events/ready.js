@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 module.exports.run = client => {
-	client.user.setActivity('Made by RLX'); // Dont remove Made by RLX or I'll sue u!!
+	client.user.setActivity('Made by BEE');
 // ----------------------------------------------------------------------------------
 console.log(`Logged in as ${client.user.tag}!`.bgBlue.black)
 console.log(`Discord.js Version: ${Discord.version}`.bgWhite.black)

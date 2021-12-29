@@ -1,9 +1,9 @@
 {
-	"prefix": "?",
-	"owner": ["Your Id"],
-	"channel": "Optional Channel I'd",
-	"invitelink": "bot invite link",
-	"server": "server link",
+	"prefix": "=",
+	"owner": ["745199026021859338"],
+	"channel": "901772793690095616",
+	"invitelink": "https://discord.com/api/oauth2/authorize?client_id=909407056602202143&permissions=0&scope=bot%20applications.commands",
+	"server": "https://discord.gg/bBBxMe9GYD",
 	"economyemoji": "💸",
 	"infoemoji": "📌", 
 	"owneremoji": "👑"
